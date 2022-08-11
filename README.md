@@ -1,2 +1,1 @@
-# pq-pdq
-Resources for Power Query PDQ! 
+# Resources for Power Query PDQ! 
